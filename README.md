@@ -34,6 +34,7 @@ A LAMP stack is a set of open-source software that provides a robust platform fo
 - **Install PHP**: Ensure PHP is installed and configured to interact with Apache and MySQL.
 - **Setup Virtual Webhost**: Configure Apache to serve your domain using virtual hosts.
 - **Test PHP Processing & Database Connection**: Validate that your server processes PHP files and connects to MySQL successfully.
+<img src="screenshots/phpadmin.png" alt="php admin" width="600" height="auto">
 
 **Part 4: How To Secure Apache with Let's Encrypt on Ubuntu 20.04**
 
@@ -43,6 +44,7 @@ Securing your web server is critical to protect data and improve trust with your
 - **Configuring Apache for HTTPS**: Set up and test your virtual hosts to work with HTTPS.
 - **Obtaining an SSL Certificate**: Automatically configure SSL for your domains using Certbot.
 - **Renewing SSL Certificates**: Ensure your SSL certificates are set to renew automatically.
+<img src="screenshots/ssl_report.png" alt="php admin" width="600" height="auto">
 
 **Additional Configurations**
 
@@ -52,6 +54,7 @@ After securing your server and setting up the basic stack, you should also:
 - **Install phpMyAdmin**: This tool simplifies database management via a web interface.
 - **Install WordPress**: Use the famous 5-minute install to get WordPress up and running.
 - **Develop a Landing Page**: Customize your WordPress homepage to make it visually appealing and functional.
+<img src="screenshots/wordpress.png" alt="wordpress" width="600" height="auto">
 
 **Conclusion**
 
