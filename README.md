@@ -1,6 +1,4 @@
 # blog-3
----
-
 ### **Comprehensive Guide to Setting Up Your Ubuntu Server and Installing Apache**
 
 **Introduction**
